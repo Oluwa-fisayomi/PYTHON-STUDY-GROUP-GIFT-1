@@ -1,0 +1,118 @@
+# Final Project Report
+
+## Project Title
+
+Customer Churn Prediction Using Basic Python
+
+
+## Introduction
+
+Customer churn occurs when customers stop using a company's products or services. Identifying customers who are likely to leave helps businesses improve customer satisfaction and increase revenue.
+
+This project applies basic Python programming concepts to analyze customer information and predict churn risk based on predefined business rules.
+
+
+## Problem Statement
+
+The company wants to identify customers who may leave its services. By analyzing customer complaints, payment history, and data usage, the business can determine which customers require retention efforts.
+
+
+## Objectives
+
+The objectives of this project were to:
+
+- Create variables with appropriate data types.
+- Calculate annual subscription revenue.
+- Update customer payment records.
+- Compare customer data usage with expected usage.
+- Determine complaint level.
+- Evaluate payment history.
+- Predict customer churn risk.
+- Determine whether a retention offer is required.
+
+
+## Dataset Description
+
+Two customer records were provided.
+
+### Customer 1
+
+- Name: Sarah Johnson
+- Monthly Subscription: ₦8,500
+- Months with Company: 10
+- Customer Care Calls: 6
+- Missed Payments: 2 (updated to 3)
+- Monthly Data Usage: 18 GB
+- Premium Subscriber: False
+
+### Customer 2
+
+- Name: David Musa
+- Monthly Subscription: ₦12,000
+- Months with Company: 24
+- Customer Care Calls: 2
+- Missed Payments: 0
+- Monthly Data Usage: 35 GB
+- Premium Subscriber: True
+
+
+## Methodology
+
+The project followed these steps:
+
+1. Created variables for customer information.
+2. Calculated annual subscription values.
+3. Updated missed payments using assignment operators.
+4. Compared data usage with expected usage.
+5. Evaluated complaint levels.
+6. Evaluated payment history.
+7. Predicted churn risk using logical operators.
+8. Determined retention eligibility.
+9. Generated customer churn reports.
+
+
+## Findings
+
+### Sarah Johnson
+
+- Annual Revenue: ₦102,000
+- High Complaints: True
+- Poor Payment History: True
+- High Churn Risk: True
+- Retention Offer Needed: True
+
+### David Musa
+
+- Annual Revenue: ₦144,000
+- High Complaints: False
+- Poor Payment History: False
+- High Churn Risk: False
+- Retention Offer Needed: False
+
+
+## Key Results
+
+- David Musa generates more annual revenue.
+- Sarah Johnson has the highest churn risk.
+- Sarah Johnson should receive a retention offer.
+- David Musa appears to be the more valuable customer due to higher revenue, longer customer relationship, and lower churn risk.
+
+
+## Recommendations
+
+The company should prioritize retaining Sarah Johnson by addressing customer complaints and improving payment support. At the same time, it should continue providing excellent service to loyal customers like David Musa to maintain long-term customer satisfaction.
+
+
+## Conclusion
+
+This project demonstrates that basic Python concepts can be used to solve practical business problems. Through simple calculations and logical operations, customer churn risk can be identified without advanced programming techniques. The project also highlights how data-driven insights can support better customer retention decisions.
+
+
+
+
+## Author
+
+**Ayotomiwa Owolabi**
+Python for Data Analytics Student.
+
+Python Data Analytics & Data Science Student
