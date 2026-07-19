@@ -117,29 +117,24 @@ Customer churn analysis is widely used in:
 
 # Project Screenshots
 
-## Customer Variables
-
-> Replace this with a screenshot showing where you created your variables.
-
-![Variables](screenshots/variables.png)
+![](screenshot1.png)
 
 ---
 
-## Churn Prediction Logic
-
-> Replace this with a screenshot showing the comparison and logical operators.
-
-![Logic](screenshots/churn_logic.png)
+![](screenshot2.png)
 
 ---
 
-## Program Output
-
-> Replace this with a screenshot of your program running successfully.
-
-![Output](screenshots/output.png)
+![](screenshot3.png)
 
 ---
+
+![](screenshot4.png)
+
+---
+
+![](screenshot5.png)
+
 
 # Results
 
