@@ -117,23 +117,23 @@ Customer churn analysis is widely used in:
 
 # Project Screenshots
 
-![](SCREENSHOTS/screenshot1.png)
+![](screenshot1.png)
 
 ---
 
-![](SCREENSHOTS/screenshot2.png)
+![](screenshot2.png)
 
 ---
 
-![](SCREENSHOTS/screenshot3.png)
+![](screenshot3.png)
 
 ---
 
-![](SCREENSHOTS/screenshot4.png)
+![](screenshot4.png)
 
 ---
 
-![](SCREENSHOTS/screenshot5.png)
+![](screenshot5.png)
 
 
 # Results
