@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Customer retention is one of the biggest challenges faced by subscription-based businesses. Companies invest significant resources in acquiring new customers, so losing existing ones can lead to reduced revenue, increased marketing costs, and slower business growth.
+Customer retention is one of the biggest challenges faced by subscription-based businesses. Companies invest significant resources in acquiring new customers, so losing existing ones can lead to revenue loss and reduced profitability.
 
 This project demonstrates how Python can be used to analyze customer data and identify customers who are likely to stop using a company's services, a phenomenon known as **customer churn**.
 
@@ -117,23 +117,23 @@ Customer churn analysis is widely used in:
 
 # Project Screenshots
 
-![](screenshot1.png)
+![](SCREENSHOTS/screenshot1.png)
 
 ---
 
-![](screenshot2.png)
+![](SCREENSHOTS/screenshot2.png)
 
 ---
 
-![](screenshot3.png)
+![](SCREENSHOTS/screenshot3.png)
 
 ---
 
-![](screenshot4.png)
+![](SCREENSHOTS/screenshot4.png)
 
 ---
 
-![](screenshot5.png)
+![](SCREENSHOTS/screenshot5.png)
 
 
 # Results
@@ -171,7 +171,7 @@ Customer churn analysis is widely used in:
 
 This project helped me understand that Python is much more than writing code.
 
-I learned how programming can be used to solve practical business problems by transforming customer data into meaningful insights. I also gained hands-on experience applying Python fundamentals to simulate real-world business decision-making.
+I learned how programming can be used to solve practical business problems by transforming customer data into meaningful insights. I also gained hands-on experience applying Python fundamentals to create solutions that can impact real business decisions.
 
 ---
 
